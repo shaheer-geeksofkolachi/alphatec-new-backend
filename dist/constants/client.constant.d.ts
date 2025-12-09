@@ -1,0 +1,6 @@
+export declare enum CONTACT_TYPE {
+    COMMERCIAL = "COMMERCIAL",
+    TECHNICAL = "TECHNICAL",
+    FINANCE = "FINANCE",
+    GENERAL = "GENERAL"
+}
